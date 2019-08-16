@@ -1,6 +1,6 @@
 # Dwarf Fortress Notes
 
-[![Version](https://img.shields.io/badge/Version-0.1.0-orange)](https://github.com/Nereare/DF-Notes)
+[![Version](https://img.shields.io/badge/Version-0.1.2-orange)](https://github.com/Nereare/DF-Notes)
 [![License](https://img.shields.io/github/license/Nereare/DF-Notes.svg)](https://github.com/Nereare/DF-Notes)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 [![TravisCI Build Status](https://img.shields.io/travis/Nereare/DF-Notes)](https://travis-ci.org/Nereare/DF-Notes)
@@ -8,13 +8,27 @@
 
 A series of notes and schematics for building my own forts at [Dwarf Fortress](http://www.bay12games.com/dwarves/). :mount_fuji:
 
-## Installing
+## Installation
 
-<!--
-TODO Set installation instructions
-BODY If there is some installation method, define it on the [README file](README.md).
--->
-1. To be done, sorry. :cry:
+### Depedencies
+
+**Before installing**, make sure you have [Ruby](https://www.ruby-lang.org/) and [Ruby Gems](https://rubygems.org/) installed.
+
+Then install [Bundler](https://bundler.io/), which is used to manage Jekyll's gems, with `gem install bundler` from your command line tool.
+
+### Installing
+
+Now that you have all depedencies on hand, let's get it running! :runner:
+
+1. Get a copy of the repository by...
+  1. ...cloning it locally `git clone https://github.com/Nereare/DF-Notes.git`; or
+  2. ...downloading a *zip* file from [this link](https://github.com/Nereare/DF-Notes/archive/master.zip) and extract its contents.
+2. Go to the folder (*e.g.* `cd folder/you/cloned/to`);
+3. Run `bundle install`;
+4. Serve the site with `bundle exec jekyll serve`;
+5. And now you have it running locall at your [localhost:4000](localhost:4000)!
+
+Done! :tada:
 
 ## Contributing
 
