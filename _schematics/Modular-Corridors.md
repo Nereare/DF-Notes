@@ -8,7 +8,7 @@ description: Tired of long, *loooooooong* boring hallways that plainly crawl thr
 layout: post
 ---
 
-![Schematics]({{ '../../assets/imgs/Modular-Corridors.png' }})
+![Schematics]({{ '../../assets/imgs/Modular-Corridors.png' | absolute_url }})
 
 ## Modules
 
