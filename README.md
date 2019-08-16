@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/Nereare/DF-Notes.svg)](https://github.com/Nereare/DF-Notes)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
-A series of notes and schematics for building my own forts at [Dwarf Fortress](http://www.bay12games.com/dwarves/).
+A series of notes and schematics for building my own forts at [Dwarf Fortress](http://www.bay12games.com/dwarves/). :mount_fuji:
 
 ## Installing
 
