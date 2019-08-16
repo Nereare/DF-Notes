@@ -1,6 +1,6 @@
-# [{{PKG_NAME}}](https://github.com/{{PKG_REPO}}) Change Log
+# [Dwarf Fortress Notes](https://github.com/Nereare/DF-Notes) Change Log
 
-This is the change log to {{PKG_NAME}}. For further info on this project, see the [ReadMe file](README.md).
+This is the change log to Dwarf Fortress Notes. For further info on this project, see the [ReadMe file](README.md).
 
 All notable changes to this project will be documented in this file.
 

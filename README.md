@@ -1,18 +1,10 @@
-# {{PKG_NAME}}
+# Dwarf Fortress Notes
 
-<!--
-TODO Change version reference badge
-BODY The [ReadMe file](README.md) has a badge referring to the repository's version. By default we use [Shields](https://shields.io/)' JSON version badge. If you are using a file other than a `.json` to keep version, change the line below.
--->
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/{{PKG_REPO}})](https://github.com/{{PKG_REPO}})
-[![License](https://img.shields.io/github/license/{{PKG_REPO}}.svg)](https://github.com/{{PKG_REPO}})
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/Nereare/DF-Notes)](https://github.com/Nereare/DF-Notes)
+[![License](https://img.shields.io/github/license/Nereare/DF-Notes.svg)](https://github.com/Nereare/DF-Notes)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
-<!--
-TODO Delete the notice line on ReadMe
-BODY The [ReadMe file](README.md) has a notice line guiding to the template's tutorial. Delete it and replace by the repository's description.
--->
-# *This is a template repository. Please read [this file](DELETE_ME.md) for instructions on how to set it.*
+A series of notes and schematics for building my own forts at [Dwarf Fortress](http://www.bay12games.com/dwarves/).
 
 ## Installing
 
@@ -20,7 +12,7 @@ BODY The [ReadMe file](README.md) has a notice line guiding to the template's tu
 TODO Set installation instructions
 BODY If there is some installation method, define it on the [README file](README.md).
 -->
-1. Foo.
+1. To be done, sorry. :cry:
 
 ## Contributing
 
@@ -40,12 +32,12 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 See the [Change Log](CHANGELOG.md) for further history.
 
-This project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/{{PKG_REPO}}/tags).
+This project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Nereare/DF-Notes/tags).
 
 ## Legal Stuff
 
-<!--
-TODO Set desired licese
-BODY This repository's template sets the license to MIT's by default. If this is not the intended license, change it.
--->
-* [MIT License](https://opensource.org/licenses/MIT).
+This repository uses [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://github.com/github/pages-gem), both of which are distributed under the [MIT License](https://opensource.org/licenses/MIT).
+
+![WTF Public License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
+
+The **contents** of this repository (its texts, images, and organization), unless noted otherwise, are under the [Do What the F\*\*\*\* You Want to Public License](http://www.wtfpl.net/) (a copy of which [is available](LICENSE.md) under this repository).
