@@ -205,3 +205,6 @@ $RECYCLE.BIN/
 # Adobe Suite Files
 *.psd
 *.ai
+
+# Ignore raw image files
+assets/imgs/raw/
