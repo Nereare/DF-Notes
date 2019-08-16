@@ -15,6 +15,10 @@ collections:
   schematics:
     output: true
 
+# Set Disqus
+disqus:
+  shortname: df-notes
+
 # Disable auto page.title generation
 titles_from_headings:
   enabled: false
