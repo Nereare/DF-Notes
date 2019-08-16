@@ -37,4 +37,6 @@ Principles of a change log, excerpted from [Keep a Changelog](http://keepachange
    - Pull request.
  * ReadMe file.
  * Changelog file.
- * ...
+ * Set base Jekyll folder structure.
+ * Set [TravisCI](https://travis-ci.org/Nereare/DF-Notes) testing.
+ * Build status, depedencies and version badges.

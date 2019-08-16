@@ -1,0 +1,59 @@
+title: Dwarf Fortress Notes
+author: Igor Padoim
+email: igorpadoim@gmail.com
+description: "A series of notes and schematics for building my own forts at Dwarf Fortress. :mount_fuji:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: Nereare/DF-Notes
+
+twitter_username: nereare
+github_username:  Nereare
+
+#header_pages:
+#  - about.md
+#  - portfolio.md
+
+collections:
+  schematics:
+    output: true
+
+# Disable auto page.title generation
+titles_from_headings:
+  enabled: false
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-coffeescript # Default GitHub Pages plugins
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings # End of default GitHub Pages plugins
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitattributes
+  - .gitignore
+  - CHANGELOG.md
+  - CODE-OF-CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - README.md
