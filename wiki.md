@@ -1,6 +1,7 @@
 ---
 title: DF Wiki
 layout: page
+permalink: wiki
 ---
 
 This project doesn't aim to be a wiki to Dwarf Fortress at all. There is already a vast and masterwork-quality [Dwarf Fortress Wiki](http://dwarffortresswiki.org/), to which you must go if you have any gameplay doubts.
