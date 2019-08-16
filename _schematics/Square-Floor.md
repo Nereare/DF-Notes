@@ -12,11 +12,11 @@ layout: post
 
 ### Large Floor Design
 
-![Schematics - Large Floor]({{ '../../assets/imgs/Square-Floor-Large.png' | absolute_url }})
+![Schematics - Large Floor]({{ 'assets/imgs/Square-Floor-Large.png' | absolute_url }})
 
 ### Small Floor Design
 
-![Schematics - Small Floor]({{ '../../assets/imgs/Square-Floor-Small.png' | absolute_url }})
+![Schematics - Small Floor]({{ 'assets/imgs/Square-Floor-Small.png' | absolute_url }})
 
 This schematics feature a `1:1` square proportion. The large white squares with an `S` are stairs. The small brown squares are doors.
 
@@ -24,4 +24,4 @@ This design features a central space that is not meant for rooms, it may either 
 
 Should you use the hollow shaft, consider installing windows (glass: `b`-`y`, gem: `b`-`Y`) on the nexi.
 
-![Schematics - Small Floor]({{ '../../assets/imgs/Square-Floor-Window.png' | absolute_url }})
+![Schematics - Small Floor]({{ 'assets/imgs/Square-Floor-Window.png' | absolute_url }})

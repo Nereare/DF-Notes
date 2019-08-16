@@ -8,7 +8,7 @@ description: A mix of two deeply interconnected industries over a single straigh
 layout: post
 ---
 
-![Schematics]({{ '../../assets/imgs/Fuel-Smelt-Industry.png' | absolute_url }})
+![Schematics]({{ 'assets/imgs/Fuel-Smelt-Industry.png' | absolute_url }})
 
 #### Legend
 
