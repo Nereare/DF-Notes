@@ -1,8 +1,10 @@
 # Dwarf Fortress Notes
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/Nereare/DF-Notes)](https://github.com/Nereare/DF-Notes)
+[![Version](https://img.shields.io/badge/Version-0.1.0-orange)](https://github.com/Nereare/DF-Notes)
 [![License](https://img.shields.io/github/license/Nereare/DF-Notes.svg)](https://github.com/Nereare/DF-Notes)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
+[![TravisCI Build Status](https://img.shields.io/travis/Nereare/DF-Notes)](https://travis-ci.org/Nereare/DF-Notes)
+[![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Nereare/DF-Notes)](https://libraries.io/github/Nereare/DF-Notes)
 
 A series of notes and schematics for building my own forts at [Dwarf Fortress](http://www.bay12games.com/dwarves/). :mount_fuji:
 
