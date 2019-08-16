@@ -2,6 +2,7 @@ title: Dwarf Fortress Notes
 author: Igor Padoim
 email: igorpadoim@gmail.com
 description: "A series of notes and schematics for building my own forts at Dwarf Fortress. :mount_fuji:"
+version: 0.1.0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: Nereare/DF-Notes
