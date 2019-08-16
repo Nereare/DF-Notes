@@ -15,7 +15,7 @@ the process.
 {% assign scheems = site.schematics | join: '' %}
 {% if scheems != '' %}
 {% for scheme in site.schematics %}
-* **[{{ scheme.title }}]({{ scheme.url }}):** {{ scheme.description }}
+* **[{{ scheme.title }}]({{ scheme.url | relative_url }}):** {{ scheme.description }}
 {% endfor %}
 {% else %}
 No schematics for now. :cry:
