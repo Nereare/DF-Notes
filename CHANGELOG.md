@@ -40,3 +40,8 @@ Principles of a change log, excerpted from [Keep a Changelog](http://keepachange
  * Set base Jekyll folder structure.
  * Set [TravisCI](https://travis-ci.org/Nereare/DF-Notes) testing.
  * Build status, depedencies and version badges.
+ * Schematics:
+   - Fuel and Metal Industries;
+   - Square Floor Plan;
+   - Modular Corridors.
+ * Dwarf Fortress Wiki notice page.

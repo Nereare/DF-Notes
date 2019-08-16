@@ -15,9 +15,17 @@ collections:
   schematics:
     output: true
 
+# Set Disqus
+disqus:
+  shortname: df-notes
+
 # Disable auto page.title generation
 titles_from_headings:
   enabled: false
+
+# Enable relative links to collections
+relative_links:
+  collections: true
 
 # Build settings
 theme: minima
