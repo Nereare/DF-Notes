@@ -12,10 +12,10 @@ layout: post
 
 #### Legend
 
-* **A**: Wood furnace (`b`, `e`, `w`).
-* **B**: Smelter (`b`, `e`, `s`), which must be set to use only from the Coal and Fuel Stockpiles.
-* **C**: Metalsmith's Forge (`b`, `w`, `f`).
-* **D**: Smelter (`b`, `e`, `s`), which must be set to use only from the Fuel, Flux, Ore and Metal Bars stockpiles.
+* **A**: Wood furnace (`b`-`e`-`w`).
+* **B**: Smelter (`b`-`e`-`s`), which must be set to use only from the Coal and Fuel Stockpiles.
+* **C**: Metalsmith's Forge (`b`-`w`-`f`).
+* **D**: Smelter (`b`-`e`-`s`), which must be set to use only from the Fuel, Flux, Ore and Metal Bars stockpiles.
 
 ## Industries
 
