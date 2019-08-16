@@ -20,3 +20,7 @@ the process.
 {% else %}
 No schematics for now. :cry:
 {% endif %}
+
+## Acknowledgements
+
+* This project uses [Mipui](https://www.mipui.net/) on most of its schematics.
