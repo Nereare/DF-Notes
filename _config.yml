@@ -23,6 +23,10 @@ disqus:
 titles_from_headings:
   enabled: false
 
+# Enable relative links to collections
+relative_links:
+  collections: true
+
 # Build settings
 theme: minima
 plugins:
