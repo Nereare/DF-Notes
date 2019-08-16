@@ -8,15 +8,17 @@ Please note we have a [code of conduct](CODE-OF-CONDUCT.md), please follow it in
 
 Before sending your pull requests, make sure you followed this list.
 
-1. Read [contributing guidelines](CONTRIBUTING.md).
-2. Read [Code of Conduct](CODE-OF-CONDUCT.md).
-3. Increase the version numbers in any examples files and the [ReadMe file](README.md) to the new version that this Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the approval of the project owner.
+- [ ] Talk with [the repo's owner](https://github.com/Nereare) about what you plan on doing.
+- [ ] Read [this contributing guidelines](CONTRIBUTING.md).
+- [ ] Read the [Code of Conduct](CODE-OF-CONDUCT.md).
+- [ ] Increase the version numbers in any examples files and the [ReadMe file](README.md) to the new version that this Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+- [ ] Run HTMLProofer testing at [TravisCI](https://travis-ci.org/) and make sure it passes.
+- [ ] Submit a Pull Request!
 
 ## Reporting a Bug & Requesting Features
 
 For both actions, this project uses GitHub templates, please use the adequate template when either reporting a bug or requesting a new feature.
 
-## Licensing and copyright
+## Licensing and Copyright
 
 Please note that accepted contributions are included in the repository and hence added under the same [license](LICENSE.md) as the repository to which it was contributed.
