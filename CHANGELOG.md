@@ -45,3 +45,6 @@ Principles of a change log, excerpted from [Keep a Changelog](http://keepachange
    - Square Floor Plan;
    - Modular Corridors.
  * Dwarf Fortress Wiki notice page.
+
+### Security
+ * Bump `nokogiri` to `1.10.4`.
