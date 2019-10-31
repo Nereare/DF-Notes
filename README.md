@@ -54,6 +54,6 @@ This project uses [SemVer](http://semver.org/) for versioning. For the versions 
 
 This repository uses [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://github.com/github/pages-gem), both of which are distributed under the [MIT License](https://opensource.org/licenses/MIT).
 
-![WTF Public License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
+[![Hippocratic License](https://i.imgur.com/DEKS3nm.png)](LICENSE.md)
 
-The **contents** of this repository (its texts, images, and organization), unless noted otherwise, are under the [Do What the F\*\*\*\* You Want to Public License](http://www.wtfpl.net/) (a copy of which [is available](LICENSE.md) under this repository).
+The **contents** of this repository (its texts, images, and organization), unless noted otherwise, are under the [Hippocratic License](https://firstdonoharm.dev/) (a copy of which [is available](LICENSE.md) under this repository).
