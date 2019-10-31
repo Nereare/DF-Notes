@@ -1,50 +1,34 @@
 # [Dwarf Fortress Notes](https://github.com/Nereare/DF-Notes) Change Log
 
-This is the change log to Dwarf Fortress Notes. For further info on this project, see the [ReadMe file](README.md).
-
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
-
-Principles of a change log, excerpted from [Keep a Changelog](http://keepachangelog.com/):
-
- * It’s made for humans, not machines, so legibility is crucial.
- * Easy to link to any section (hence Markdown over plain text).
- * One sub-section per version.
- * List releases in reverse-chronological order (newest on top).
- * Write all dates in `YYYY-MM-DD` format. (Example: `2012-06-02` for `June 2nd, 2012`.) It’s international, [sensible](http://xkcd.com/1179/), and language-independent.
- * Explicitly mention whether the project follows [Semantic Versioning](http://semver.org/).
- * Each version should:
-   * `List` its release date in the above format.
-   * `Group` changes to describe their impact on the project, as follows:
-     * `Added` for new features.
-     * `Changed` for changes in existing functionality.
-     * `Deprecated` for once-stable features removed in upcoming releases.
-     * `Removed` for deprecated features removed in this release.
-     * `Fixed` for any bug fixes.
-     * `Security` to invite users to upgrade in case of vulnerabilities.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
 ### Added
- * Code of Conduct from [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/).
- * [License](LICENSE.md).
- * Git metafiles (`.gitignore` and `.gitattributes`).
- * GitHub templates:
+* Code of Conduct from [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/).
+* [License](LICENSE.md).
+* Git metafiles (`.gitignore` and `.gitattributes`).
+* GitHub templates:
    - Issues;
    - Feature request;
    - User question;
    - Pull request.
- * ReadMe file.
- * Changelog file.
- * Set base Jekyll folder structure.
- * Set [TravisCI](https://travis-ci.org/Nereare/DF-Notes) testing.
- * Build status, depedencies and version badges.
- * Schematics:
+* ReadMe file.
+* Changelog file.
+* Set base Jekyll folder structure.
+* Set [TravisCI](https://travis-ci.org/Nereare/DF-Notes) testing.
+* Build status, depedencies and version badges.
+* Schematics:
    - Fuel and Metal Industries;
    - Square Floor Plan;
    - Modular Corridors.
- * Dwarf Fortress Wiki notice page.
+* Dwarf Fortress Wiki notice page.
+
+### Changed
+* Changed license to the [Hippocratic License v1.2](https://firstdonoharm.dev/).
 
 ### Security
- * Bump `nokogiri` to `1.10.4`.
+* Bump `nokogiri` to `1.10.4`.
