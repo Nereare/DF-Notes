@@ -1,7 +1,7 @@
 # Dwarf Fortress Notes
 
 [![Version](https://img.shields.io/badge/Version-0.4.6-orange)](https://github.com/Nereare/DF-Notes)
-[![License](https://img.shields.io/github/license/Nereare/DF-Notes.svg)](https://github.com/Nereare/DF-Notes)
+[![License](https://img.shields.io/badge/license-Hippocratic%20License%20v1.2-red)](LICENSE.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 [![TravisCI Build Status](https://img.shields.io/travis/Nereare/DF-Notes/master)](https://travis-ci.org/Nereare/DF-Notes)
 [![Libraries.io dependency status](https://img.shields.io/librariesio/github/Nereare/DF-Notes)](https://libraries.io/github/Nereare/DF-Notes)
